@@ -3,3 +3,7 @@
     --card-front-color: #5f30b4;
     --card-back-color: #bb91e2;
 }
+body{
+    background-image: url(img/bio.webp);
+    font-family: Tomorrow;
+}
