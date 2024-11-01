@@ -24,3 +24,7 @@ body{
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
+.cartao_conteudo p{
+    padding: 4rem;
+    margin-top: 4rem;
+}
