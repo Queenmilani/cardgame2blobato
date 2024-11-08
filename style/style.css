@@ -43,3 +43,6 @@ body{
     color: var(--card-back-color);
     font-weight: 700;
 }
+.cartao:hover .cartao_conteudo{
+    transform: rotateY(180deg);
+}
